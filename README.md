@@ -2,7 +2,7 @@
 
 A comprehensive Python project demonstrating database fundamentals, table creation, and CRUD operations using SQLite.
 
-## 📚 Database Introduction
+##  Database Introduction
 
 ### What is a Database?
 A database is an organized collection of structured data stored and accessed electronically. Databases are essential for:
@@ -38,7 +38,7 @@ SQLite is a lightweight, file-based relational database management system that:
 - `BLOB`: Binary large objects
 - `NULL`: Missing/undefined values
 
-## 🔧 CRUD Operations
+##  CRUD Operations
 
 This project demonstrates the four fundamental database operations:
 
@@ -54,7 +54,7 @@ Modify existing records
 ### DELETE
 Remove records from the database
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -66,7 +66,7 @@ requirements.txt     # Python dependencies
 README.md           # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 ```bash
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## 📖 Usage Examples
+##  Usage Examples
 
 See `src/main.py` for comprehensive examples of:
 - Creating a database
@@ -88,7 +88,7 @@ See `src/main.py` for comprehensive examples of:
 - Updating records
 - Deleting records
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 After completing this project, you'll understand:
 - ✅ Relational database fundamentals
